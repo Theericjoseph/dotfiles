@@ -134,3 +134,4 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+command -v fastfetch >/dev/null && fastfetch
